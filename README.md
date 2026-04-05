@@ -1,2 +1,2 @@
 # Bruno-aventure-
-Se connecter avec c'est amie en temps réel 
+Se connecter avec ses amis en temps réel 
